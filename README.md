@@ -39,7 +39,6 @@ Let’s build something impactful! 🚀
 ![Terrakube](https://img.shields.io/badge/Terrakube-000000?style=for-the-badge)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-2F2F2F?style=for-the-badge&logo=github-actions&logoColor=white)
-![Open Policy Agent](https://img.shields.io/badge/OPA-7D4CDB?style=for-the-badge)
 
 ### 🗄️ Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -50,8 +49,7 @@ Let’s build something impactful! 🚀
 ### 🤖 AI & Automation
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Voice AI](https://img.shields.io/badge/Voice%20AI-FF6F00?style=for-the-badge)
-![NIST 800-53](https://img.shields.io/badge/NIST%20800--53-1F4E79?style=for-the-badge)
-![FedRAMP](https://img.shields.io/badge/FedRAMP-003366?style=for-the-badge)
+![Gemini AI](https://img.shields.io/badge/FedRAMP-003366?style=for-the-badge)
 
 ---
 
@@ -81,11 +79,11 @@ Let’s build something impactful! 🚀
 
 > Replace YOUR_GITHUB_USERNAME with your actual GitHub username
 
-![](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)
+![](https://github-readme-stats.vercel.app/api?username=deepaklumia&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=dracula&hide_border=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=deepaklumia&theme=dracula&hide_border=false)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&theme=dracula&hide_border=false&layout=compact&langs_count=8)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=deepaklumia&theme=dracula&hide_border=false&layout=compact&langs_count=8)
 
 ---
 

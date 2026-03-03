@@ -49,7 +49,7 @@ Let’s build something impactful! 🚀
 ### 🤖 AI & Automation
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Voice AI](https://img.shields.io/badge/Voice%20AI-FF6F00?style=for-the-badge)
-![Gemini AI](https://img.shields.io/badge/FedRAMP-003366?style=for-the-badge)
+![Gemini AI](https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
 ---
 
@@ -77,7 +77,6 @@ Let’s build something impactful! 🚀
 
 ## 📊 GitHub Stats
 
-> Replace YOUR_GITHUB_USERNAME with your actual GitHub username
 
 ![](https://github-readme-stats.vercel.app/api?username=deepaklumia&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)
 

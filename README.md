@@ -1,120 +1,79 @@
-# 🚀 Deepak Kumar
-### 👨‍💻 Full Stack Developer | ☁️ AWS | 🤖 AI Integration | 🔐 Compliance Automation  
+# 💫 About Me
 
-📍 Nalanda, Bihar, India  
-📧 deepakkumar12071998@gmail.com  
-🔗 https://www.linkedin.com/in/deepakkumar-b82912143/
+Full Stack Developer
+Building scalable SaaS platforms, AI voice agents, compliant cloud infrastructure, and intelligent automation systems.
 
----
-
-## 🧠 About Me
-
-Results-driven Full Stack Developer with 2+ years of experience building scalable, production-grade web applications.
-
-- ⚡ Specialized in React, Next.js, Node.js & AWS
-- ☁️ Strong experience with Terraform, Docker & CI/CD
-- 🔐 Focused on Infrastructure as Code & FedRAMP Compliance
-- 🤖 Integrated OpenAI & AI models into real-world systems
-- 🚀 Passionate about performance, clean architecture & automation
+Currently focused on **React/Next.js + Node.js + Python + AWS  + AI integrations**.  
+Strong background in **end-to-end full-stack development — from responsive frontend design to scalable backend architecture and cloud-native deployments**.  
+Open to full-time opportunities, collaborations, or complex systems to architect.  
+Let’s build something impactful! 🚀
 
 ---
 
-## 🛠️ Tech Stack
+## 🌐 Connect
 
-### 💻 Languages
-- TypeScript
-- JavaScript
-- Python
-- SQL
-- Rego
-- HTML / CSS
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/deepakkumar-b82912143)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:deepakkumar12071998@gmail.com)
+[![Location](https://img.shields.io/badge/Location-Nalanda%2C%20Bihar%2C%20India-blue?style=flat&logo=google-maps&logoColor=white)](#)
 
-### ⚛️ Frontend
-- React
-- Next.js
-- Redux
-- Responsive UI Development
+---
 
-### 🔙 Backend
-- Node.js
-- Express.js
-- RESTful APIs
-- Secure IAM-based Architecture
+## 💻 Tech Stack
+
+### 🚀 Frontend
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+
+### 🔧 Backend
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![REST API](https://img.shields.io/badge/REST-02569B?style=for-the-badge)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ### ☁️ Cloud & DevOps
-- AWS (EC2, S3, CloudFront, RDS, IAM, Lambda)
-- Terraform
-- Terrakube
-- Docker
-- CI/CD Pipelines
-- Open Policy Agent (OPA)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+![Terrakube](https://img.shields.io/badge/Terrakube-000000?style=for-the-badge)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2F2F2F?style=for-the-badge&logo=github-actions&logoColor=white)
+![Open Policy Agent](https://img.shields.io/badge/OPA-7D4CDB?style=for-the-badge)
 
 ### 🗄️ Databases
-- PostgreSQL
-- MongoDB
-- MySQL
-- Redis
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+
+### 🤖 AI & Automation
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Voice AI](https://img.shields.io/badge/Voice%20AI-FF6F00?style=for-the-badge)
+![NIST 800-53](https://img.shields.io/badge/NIST%20800--53-1F4E79?style=for-the-badge)
+![FedRAMP](https://img.shields.io/badge/FedRAMP-003366?style=for-the-badge)
 
 ---
 
-## 💼 Professional Experience
+## 🔥 Highlight Projects
 
-### 🏢 Full Stack Developer — Legit Bytes  
-📅 Sept 2023 – Dec 2025  
+### 🎙️ Tazzo.AI — Enterprise Voice AI Platform
+- Scalable AI voice agents (inbound & outbound)
+- Multi-language & accent support
+- AWS global deployment with high availability
+- Context-aware, human-like conversations
 
-- 🚀 Built scalable applications serving 10,000+ users
-- ☁️ Deployed cloud infrastructure on AWS
-- 🧱 Implemented Infrastructure as Code using Terraform
-- 🔄 Reduced deployment time by 60% with CI/CD automation
-- 🔐 Designed secure IAM-based backend systems
-- 🤖 Integrated AI models into backend services
+### 🛡️ CodeOps — IaC Compliance Automation
+- FedRAMP-aligned Terraform validation
+- NIST 800-53 controls converted to Rego policies
+- OPA policy enforcement for Infrastructure as Code
+- Automated compliance guardrails
 
----
-
-## 🔥 Key Projects
-
-### 🎙️ Tazzo.AI – AI Voice Agent Platform
-
-- 🌍 Scalable AI voice automation platform
-- 📞 Built human-like inbound/outbound voice agents
-- 🌐 Multi-language and accent support
-- ⚙️ Plug-and-play no-code architecture
-
----
-
-### 🛡️ CodeOps – IaC Compliance Automation
-
-- 🔍 Automated FedRAMP-aligned Terraform validation
-- 🧾 Converted NIST 800-53 controls into Rego policies
-- ⚙️ Integrated OPA for compliance enforcement
-- 📉 Reduced manual audit overhead
-
----
-
-### 🍽️ Insmeal – Restaurant SaaS Platform
-
-- 🛒 Built high-volume order management backend
-- 💳 Integrated secure payment gateways
-- 📊 Developed analytics dashboards
-- ☁️ Deployed SaaS infrastructure on AWS
-
----
-
-## 🎓 Education
-
-**Master of Computer Applications (MCA)**  
-Cochin University of Science & Technology  
-
-**Bachelor’s in Computer Programming**  
-College of Commerce Arts and Science  
-
----
-
-## 🏆 Certifications
-
-- Oracle Cloud Infrastructure 2023 AI Certified Foundations Associate
-- Front End Development Libraries – freeCodeCamp
-- JavaScript Algorithms & Data Structures – freeCodeCamp
+### 🍽️ Insmeal — Restaurant SaaS Platform
+- Multi-tenant restaurant management system
+- Secure payments & wallet integrations
+- AWS-hosted production SaaS infrastructure
+- High-performance order management backend
 
 ---
 
@@ -122,21 +81,22 @@ College of Commerce Arts and Science
 
 > Replace YOUR_GITHUB_USERNAME with your actual GitHub username
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
+![](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=dracula&hide_border=false)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&theme=dracula&hide_border=false&layout=compact&langs_count=8)
 
 ---
 
-## 🤝 Let's Connect
+## 🎯 2026 Goals
 
-If you're interested in:
-
-- 🤖 AI Automation
-- ☁️ Cloud Architecture
-- 🔐 DevSecOps & Compliance
-- 🚀 Scalable SaaS Development
-
-Feel free to connect or collaborate!
+- 🚀 Advance DevSecOps & Compliance Automation
+- 🤖 Build production-grade AI systems
+- ☁️ Design secure multi-cloud architectures
+- 🧠 Contribute to open-source IaC/OPA projects
 
 ---
 
-# ⭐ Building scalable systems. Automating compliance. Integrating intelligence.
+Made with passion for clean architecture, secure systems & scalable cloud engineering  
+Last updated: March 2026
